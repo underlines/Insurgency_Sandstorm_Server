@@ -1,5 +1,0 @@
-REM Start original ISMCmod in Hardcore Mode:
-InsurgencyServer.exe TORO?Scenario=Scenario_TORO_Checkpoint_Security?Lighting=Day?MaxPlayers="6" -hostname="TacBeast|ISMC|HARDCORE|Slow|discord:bit.ly/tacbeast" -Port=27102 -QueryPort=27131 -log -mods -motd -mutators=ISMC_Hardcore,NoRestrictedArea,SlowCaptureTimes,SlowMovement,ImprovedAI,CounterBots -GameStatsToken=xxxx -GSLTToken=yyyy -GameStats -ModDownloadTravelTo=TORO?Scenario=Scenario_TORO_Checkpoint_Security?Lighting=Day?MaxPlayers=6?Mutators=ISMC_Hardcore,NoRestrictedArea,SlowCaptureTimes,SlowMovement,ImprovedAI,CounterBots
-
-REM Start ISMC Arbusto project:
-InsurgencyServer.exe TORO?Scenario=Scenario_TORO_Checkpoint_Security?Lighting=Day?MaxPlayers="6" -hostname="TacBeast|ISMCArbusto|HARDCORE|Slow|discord:bit.ly/tacbeast" -Port=27102 -QueryPort=27131 -log -mods -motd -mutators=ISMCGunfighter_Tac,NoRestrictedArea,SlowCaptureTimes,SlowMovement,ImprovedAI,CounterBots -GameStatsToken=xxxx -GSLTToken=yyyy -GameStats -ModDownloadTravelTo=TORO?Scenario=Scenario_TORO_Checkpoint_Security?Lighting=Day?MaxPlayers=6?Mutators=ISMCGunfighter_Tac,NoRestrictedArea,SlowCaptureTimes,SlowMovement,ImprovedAI,CounterBots

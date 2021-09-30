@@ -1,0 +1,55 @@
+;-----------------------------------------------------------------
+;----------------------ACTIVE TOTAL CONVERSION MODS
+;-----------------------------------------------------------------
+150867 ; ISMC Mod [ISMC_Hardcore]
+747539 ; ISMC Project Arbusto [ISMCInfantry]
+; Arbusto Theaters Mutators:
+; ISMCInfantry				For class based gameplay, both factions have access to the same pool of weapons and attachments, similar to INS 2014/Battlefield
+; ISMCGunfighter			Based on the FullyLoaded loadout, everyone has access to all guns, no fire support.
+; ISMCGunfighter_Tac		Based on the FullyLoaded loadout, everyone has access to all guns, adds a team leader class to enable fire support. Similar to regular ISMC
+; ISMCGunfighter_Legacy		Based on the FullyLoaded loadout, everyone has access to all guns, no fire support. Regular NWI cosmetics.
+; ISMCGunfighter_Tac_Legacy	Based on the FullyLoaded loadout, everyone has access to all guns, adds a team leader class to enable fire support. Similar to regular ISMC. Regular NWI cosmetics.
+; ISMCOperator				Based on the FullyLoaded loadout, everyone has access to all guns, everyone can call fire support. In the spirit of MW2019
+ISMCMilSim					;Based on Gunfighter_Tac but with limited weapons (US vs RU) for "realistic" type scenarios.
+
+; Arbusto Movement Mutators:
+; TacticalMovement			Slower movement (85%) with regular animations
+TacticalMovementHC			;Slower movement(85%) with hardcore animations.
+; CasualMovement			Faster movement (110%) with regular animations.
+; CasualMovementHC			Faster movement (110%) with hardcore animations.
+; OldSchoolMovement			Faster movement (110% movement, 115% sprint) with no free aim.
+; 90sMovement				Faster movement (110% movement, 115% sprint) with no free aim and no ADS.
+
+; Arbusto Health/Damage Mutators:
+TacticalHealth				;80% Health with +20% headshot damage
+; CasualHealth				133% Health with -30% headshot damage.
+; OldSchoolHealth			200% Health with no changes to headshot damage.
+;-----------------------------------------------------------------
+;----------------------ACTIVE MODS
+;-----------------------------------------------------------------
+98145  ; No Restricted Area Mutator [1.9] [NoRestrictedArea]
+93636  ; Improved AI [ImprovedAI]
+;-----------------------------------------------------------------
+;----------------------REMOVED MODS
+;-----------------------------------------------------------------
+; 134838 No Restricted Areas (v1.0.3) [NoRestrictedArea] DOESNT WORK
+;-----------------------------------------------------------------
+;----------------------ACTIVE MAPS
+;-----------------------------------------------------------------
+773324 ; Redwood Reborn
+94277  ; TORO
+448415 ; Mud Village (Admin Menu Map "Desert")
+851105 ; Peak Reborn
+724942 ; Strike at Karkand
+;-----------------------------------------------------------------
+;----------------------REMOVED MAPS
+;-----------------------------------------------------------------
+;391659  Prison
+;371483  Sultan Of Drugs
+;522691  Factory
+;566171  Coastline
+;175082  Temple
+;760053  The Green Zone
+;109375  Mountain Pass
+;580499  Oasis
+;561774  Diplomacy VERY BUGGY

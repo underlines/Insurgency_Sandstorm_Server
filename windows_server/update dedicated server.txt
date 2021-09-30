@@ -1,0 +1,6 @@
+Open steamCMD.exe
+Use the following commands:
+login anonymous
+app_update 581330 validate
+quit
+
